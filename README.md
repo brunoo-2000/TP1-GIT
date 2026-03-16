@@ -2,6 +2,6 @@
 
 ## Integrantes
 
-- Bruno Piri
+- [Bruno Piri](bruno_piri.md)
 - Valentin Borio
 - Agustin Beninca
