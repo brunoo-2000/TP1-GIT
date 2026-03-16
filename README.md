@@ -3,5 +3,5 @@
 ## Integrantes
 
 - Bruno Piri
-- Valentin Borio
+- [Valentin Borio](valentin_borio.md)
 - Agustin Beninca
