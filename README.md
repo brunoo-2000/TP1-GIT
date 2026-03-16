@@ -1,1 +1,7 @@
-##TP1-GIT
+# TP1-GIT
+
+## Integrantes
+
+- Bruno Piri
+- Valentin Borio
+- Agustin Beninca
