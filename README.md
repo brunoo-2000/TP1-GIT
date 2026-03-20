@@ -4,4 +4,4 @@
 
 - Bruno Piri
 - Valentin Borio
-- Agustin Beninca
+- [Agustin Beninca](agustin_beninca.md)
